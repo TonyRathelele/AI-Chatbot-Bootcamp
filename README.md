@@ -1,6 +1,6 @@
 # AI-Chatbot-Bootcamp
 
-##Introduction 
+## Introduction 
 1.1 Purpose 
 
 A no-code chatbot called the AI Knowledge Assistant was created as a teaching tool to explain the foundations of artificial intelligence (AI). Users can explore important AI ideas, pose follow-up questions, view multimedia explanations, and get tailored learning recommendations in an interactive learning simulation. 
@@ -18,7 +18,7 @@ Bring up ethical issues when developing AI.
 Offer access to other learning resources and multimedia assistance 
 
 
-#Tools used
+# Tools used
 
 
 Landbot.io 
