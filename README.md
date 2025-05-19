@@ -1,4 +1,11 @@
 # AI-Chatbot-Bootcamp Week-1
+# TechShield Support
+•	Tony Rathelele
+•	Enough Mlimo
+•	Andani Mapholi
+•	Ngcebo Ngcobo
+•	Masego Mogale
+
 
 # Test live 
 Live link: https://landbot.online/v3/H-2938620-22HMKMT4CPH71QZT/index.html
